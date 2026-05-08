@@ -65,7 +65,7 @@ This hierarchical approach helped us gradually move from basic digital design co
 
 ## Hardware Prototype
 
-![Prototype](prototype.jpg)
+![Prototype](prototype.png)
 
 ## Project Highlights
 - FPGA-based real-time control implementation
