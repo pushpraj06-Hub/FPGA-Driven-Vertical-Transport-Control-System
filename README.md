@@ -61,11 +61,11 @@ This hierarchical approach helped us gradually move from basic digital design co
 
 ## FSM State Diagram
 
-![FSM Diagram](images/fsm_diagram.png)
+![FSM Diagram](fsm_diagram.png)
 
 ## Hardware Prototype
 
-![Prototype](images/prototype.jpg)
+![Prototype](prototype.jpg)
 
 ## Project Highlights
 - FPGA-based real-time control implementation
