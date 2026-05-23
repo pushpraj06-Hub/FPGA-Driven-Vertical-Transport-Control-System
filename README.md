@@ -67,6 +67,8 @@ This hierarchical approach helped us gradually move from basic digital design co
 
 ![Prototype](prototype.png)
 
+Link : https://youtube.com/shorts/GG7yPKFoUco?si=EqAIb0unHGzERc-9
+
 ## Project Highlights
 - FPGA-based real-time control implementation
 - Physical working elevator prototype
