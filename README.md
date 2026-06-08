@@ -77,6 +77,6 @@ Link : https://youtube.com/shorts/GG7yPKFoUco?si=EqAIb0unHGzERc-9
 - Practical exposure to hardware debugging and interfacing
 - Structured development from basic modules to full system integration
 
-Engineering Design and Innovation,
-Department of Electronics & Telecommunication Engineering, 
+Engineering Design and Innovation,                                                                                                                                                                                                   
+Department of Electronics & Telecommunication Engineering,                                                                                                                                                                            
 Vishwakarma Institute of Technology, Pune
