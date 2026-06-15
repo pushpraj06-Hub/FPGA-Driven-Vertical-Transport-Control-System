@@ -77,7 +77,7 @@ Link : https://youtube.com/shorts/GG7yPKFoUco?si=EqAIb0unHGzERc-9
 - Practical exposure to hardware debugging and interfacing
 - Structured development from basic modules to full system integration
 
-Teammates - Bhaven Peddi, Harshvardhan Patil
+Teammates - Bhaven Peddi, Harshvardhan Patil                                                                                                                                                                                          
 Engineering Design and Innovation,                                                                                                                                                                                                   
 Department of Electronics & Telecommunication Engineering,                                                                                                                                                                            
 Vishwakarma Institute of Technology, Pune
